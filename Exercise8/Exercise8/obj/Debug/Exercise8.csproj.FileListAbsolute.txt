@@ -1,9 +1,0 @@
-c:\users\hampus lundgren\documents\visual studio 2015\Projects\Exercise8\Exercise8\bin\Debug\Exercise8.exe.config
-c:\users\hampus lundgren\documents\visual studio 2015\Projects\Exercise8\Exercise8\bin\Debug\Exercise8.exe
-c:\users\hampus lundgren\documents\visual studio 2015\Projects\Exercise8\Exercise8\bin\Debug\Exercise8.pdb
-c:\users\hampus lundgren\documents\visual studio 2015\Projects\Exercise8\Exercise8\obj\Debug\Exercise8.csprojResolveAssemblyReference.cache
-c:\users\hampus lundgren\documents\visual studio 2015\Projects\Exercise8\Exercise8\obj\Debug\Exercise8.exe
-c:\users\hampus lundgren\documents\visual studio 2015\Projects\Exercise8\Exercise8\obj\Debug\Exercise8.pdb
-C:\Users\Hampus Lundgren\Documents\GitHub\UppgifterFrånHampusLundgren\Exercise8\Exercise8\bin\Debug\Exercise8.exe.config
-C:\Users\Hampus Lundgren\Documents\GitHub\UppgifterFrånHampusLundgren\Exercise8\Exercise8\obj\Debug\Exercise8.exe
-C:\Users\Hampus Lundgren\Documents\GitHub\UppgifterFrånHampusLundgren\Exercise8\Exercise8\obj\Debug\Exercise8.pdb
